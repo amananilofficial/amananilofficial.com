@@ -643,19 +643,6 @@ SOFTWARE.
 - 🛡️ **Information Security**: Penetration testing, security audits, compliance
 
 ---
-
-<div align="center">
-
-### 🌟 Star this repository if you found it helpful!
-
-**Made with ❤️ and ☕ by Aman Anil**
-
-*"Securing the digital world, one line of code at a time."*
-
-</div>
-
----
-
 ## 📝 Changelog
 
 ### v1.0.0 (Current)
@@ -676,4 +663,12 @@ SOFTWARE.
 
 ---
 
-*Last updated: 2025*
+<div align="center">
+
+### 🌟 Star this repository if you found it helpful!
+
+**Made with ❤️ and ☕ by Aman Anil**
+
+*"Securing the digital world, one line of code at a time."*
+
+</div>
